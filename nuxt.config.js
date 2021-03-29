@@ -26,7 +26,7 @@ export default {
     "@assets/css/main.css",
   ],
   plugins: [{ src: "~/plugins/uikit.js", ssr: false }],
-  modules: ["@nuxtjs/markdownit", "@nuxtjs/strapi"],
+  modules: ["@nuxtjs/markdownit", "@nuxtjs/strapi", "@nuxtjs/dotenv"],
   strapi: {
     url: strapiBaseUri,
     entities: [
