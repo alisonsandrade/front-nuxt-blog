@@ -1,0 +1,23 @@
+[
+  {
+    "name": "articles-slug",
+    "path": "/articles/:slug?",
+    "component": "/home/alison/dev/blog/frontend/pages/articles/_slug.vue",
+    "chunkName": "pages/articles/_slug",
+    "_name": "_c5469fae"
+  },
+  {
+    "name": "categories-slug",
+    "path": "/categories/:slug?",
+    "component": "/home/alison/dev/blog/frontend/pages/categories/_slug.vue",
+    "chunkName": "pages/categories/_slug",
+    "_name": "_40ef31f0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/alison/dev/blog/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b653ac1e"
+  }
+]
